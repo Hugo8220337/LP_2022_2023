@@ -1,3 +1,20 @@
+<h1 align="center">Practical Work on Laboratório de Programação (Programming Lab)</h1>
+
+<p>
+  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=School%20year&message=2022/2023&color=sucess"/>
+  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Discipline&message=LP&color=sucess"/>
+  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Grade&message=17.2&color=sucess"/>
+</p>
+
+---
+
+<h2>Languages</h2>
+<p align="left"> 
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C">
+</p>
+
+---
+
 # TP1_AC_Grupo107
 Uma aplicação de registo de encomendas criada em C, para a disciplina "Laboratório de Programação" onde deveria ser criado um programa em C.
 
